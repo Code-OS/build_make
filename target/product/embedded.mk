@@ -34,7 +34,6 @@ PRODUCT_PACKAGES += \
     dumpsys \
     fastboot \
     gralloc.default \
-    healthd \
     hwservicemanager \
     init \
     init.environ.rc \
